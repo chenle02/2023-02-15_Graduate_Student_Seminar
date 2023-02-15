@@ -1,2 +1,1 @@
 \babel@toc {english}{}
-\beamer@sectionintoc {1}{Intermittency}{2}{0}{1}

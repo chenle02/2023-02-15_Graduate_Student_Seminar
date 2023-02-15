@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.8.12)  15 FEB 2023 11:46
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.8.12)  15 FEB 2023 12:39
  system commands enabled.
 **Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.tex
 (./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.tex
@@ -1635,11 +1635,320 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 [1
 Non-PDF special ignored!
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./figs/AU-Black.jpeg>] (./T
-alk-LeChen-Graduate-Seminar-Auburn-2023-02-15.toc)
-[2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./figs/AU-Black.jpeg>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+ (./T
+alk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+LaTeX Font Warning: Font shape `TU/phv/m/it' undefined
+(Font)              using `TU/phv/m/n' instead on input line 4.
+
+) [2
 
 ]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+ (./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Illustrate_the_idea_If_you_sharpen_the_saw_you_would.png, id=57
+, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_Illustrate_the_idea_If_you_sharpen_the_saw_you_would.png G
+raphic file (type png)
+<use ./figs/chenle02_Illustrate_the_idea_If_you_sharpen_the_saw_you_would.png>
+Package luatex.def Info: ./figs/chenle02_Illustrate_the_idea_If_you_sharpen_the_
+saw_you_would.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [3
+
+<./figs/chenle02_Illustrate_the_idea_If_you_sharpen_the_saw_you_would.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+File: ./figs/chenle02_Illustrate_the_idea_If_you_sharpen_the_saw_you_would.png G
+raphic file (type png)
+<use ./figs/chenle02_Illustrate_the_idea_If_you_sharpen_the_saw_you_would.png>
+Package luatex.def Info: ./figs/chenle02_Illustrate_the_idea_If_you_sharpen_the_
+saw_you_would.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [4
+
+]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_illustrate_the_idea_If_you_sharpen_the_saw_you_can_cut.png, id=
+68, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_illustrate_the_idea_If_you_sharpen_the_saw_you_can_cut.png
+ Graphic file (type png)
+<use ./figs/chenle02_illustrate_the_idea_If_you_sharpen_the_saw_you_can_cut.png>
+
+Package luatex.def Info: ./figs/chenle02_illustrate_the_idea_If_you_sharpen_the_
+saw_you_can_cut.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [5
+
+<./figs/chenle02_illustrate_the_idea_If_you_sharpen_the_saw_you_can_cut.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_two_guys_are_Lumbering_one_with_advanced_tool_doing_th.png, id=
+74, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_two_guys_are_Lumbering_one_with_advanced_tool_doing_th.png
+ Graphic file (type png)
+<use ./figs/chenle02_two_guys_are_Lumbering_one_with_advanced_tool_doing_th.png>
+
+Package luatex.def Info: ./figs/chenle02_two_guys_are_Lumbering_one_with_advance
+d_tool_doing_th.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [6
+
+<./figs/chenle02_two_guys_are_Lumbering_one_with_advanced_tool_doing_th.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Illustrate_the_idea_of_Time_taken_for_sharpening_the_a.png, id=
+80, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_Illustrate_the_idea_of_Time_taken_for_sharpening_the_a.png
+ Graphic file (type png)
+<use ./figs/chenle02_Illustrate_the_idea_of_Time_taken_for_sharpening_the_a.png>
+
+Package luatex.def Info: ./figs/chenle02_Illustrate_the_idea_of_Time_taken_for_s
+harpening_the_a.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [7
+
+<./figs/chenle02_Illustrate_the_idea_of_Time_taken_for_sharpening_the_a.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Show_sharp_tools_are_superior_than_dull_tools_illustra.png, id=
+86, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_Show_sharp_tools_are_superior_than_dull_tools_illustra.png
+ Graphic file (type png)
+<use ./figs/chenle02_Show_sharp_tools_are_superior_than_dull_tools_illustra.png>
+
+Package luatex.def Info: ./figs/chenle02_Show_sharp_tools_are_superior_than_dull
+_tools_illustra.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [8
+
+<./figs/chenle02_Show_sharp_tools_are_superior_than_dull_tools_illustra.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Illustrate_An_artisan_must_first_sharpen_his_tools_if.png, id=9
+2, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_Illustrate_An_artisan_must_first_sharpen_his_tools_if.png 
+Graphic file (type png)
+<use ./figs/chenle02_Illustrate_An_artisan_must_first_sharpen_his_tools_if.png>
+Package luatex.def Info: ./figs/chenle02_Illustrate_An_artisan_must_first_sharpe
+n_his_tools_if.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [9
+
+<./figs/chenle02_Illustrate_An_artisan_must_first_sharpen_his_tools_if.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Chaotic_stochastic_heat_flow_on_a_torus.png, id=98, 1027.84pt x
+ 1027.84pt>
+File: ./figs/chenle02_Chaotic_stochastic_heat_flow_on_a_torus.png Graphic file (
+type png)
+<use ./figs/chenle02_Chaotic_stochastic_heat_flow_on_a_torus.png>
+Package luatex.def Info: ./figs/chenle02_Chaotic_stochastic_heat_flow_on_a_torus
+.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [10
+
+<./figs/chenle02_Chaotic_stochastic_heat_flow_on_a_torus.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Law_of_large_numbers_and_central_limit_theorem.png, id=104, 102
+7.84pt x 1027.84pt>
+File: ./figs/chenle02_Law_of_large_numbers_and_central_limit_theorem.png Graphic
+ file (type png)
+<use ./figs/chenle02_Law_of_large_numbers_and_central_limit_theorem.png>
+Package luatex.def Info: ./figs/chenle02_Law_of_large_numbers_and_central_limit_
+theorem.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [11
+
+<./figs/chenle02_Law_of_large_numbers_and_central_limit_theorem.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Stochastic_heat_equation.png, id=111, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_Stochastic_heat_equation.png Graphic file (type png)
+<use ./figs/chenle02_Stochastic_heat_equation.png>
+Package luatex.def Info: ./figs/chenle02_Stochastic_heat_equation.png  used on i
+nput line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [12
+
+<./figs/chenle02_Stochastic_heat_equation.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Intermittency_parabolic_Anderson_model_Brownian_motion.png, id=
+117, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_Intermittency_parabolic_Anderson_model_Brownian_motion.png
+ Graphic file (type png)
+<use ./figs/chenle02_Intermittency_parabolic_Anderson_model_Brownian_motion.png>
+
+Package luatex.def Info: ./figs/chenle02_Intermittency_parabolic_Anderson_model_
+Brownian_motion.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [13
+
+<./figs/chenle02_Intermittency_parabolic_Anderson_model_Brownian_motion.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_A_gitar_placed_in_the_sanddust_storm_in_a_desert_show.png, id=1
+23, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_A_gitar_placed_in_the_sanddust_storm_in_a_desert_show.png 
+Graphic file (type png)
+<use ./figs/chenle02_A_gitar_placed_in_the_sanddust_storm_in_a_desert_show.png>
+Package luatex.def Info: ./figs/chenle02_A_gitar_placed_in_the_sanddust_storm_in
+_a_desert_show.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [14
+
+<./figs/chenle02_A_gitar_placed_in_the_sanddust_storm_in_a_desert_show.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Show_rain_drops_on_a_small_pond_in_a_foggy_raining_day.png, id=
+129, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_Show_rain_drops_on_a_small_pond_in_a_foggy_raining_day.png
+ Graphic file (type png)
+<use ./figs/chenle02_Show_rain_drops_on_a_small_pond_in_a_foggy_raining_day.png>
+
+Package luatex.def Info: ./figs/chenle02_Show_rain_drops_on_a_small_pond_in_a_fo
+ggy_raining_day.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [15
+
+<./figs/chenle02_Show_rain_drops_on_a_small_pond_in_a_foggy_raining_day.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Lightningclouds_dramatic_light_zigzag_highly_detailed.png, id=1
+35, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_Lightningclouds_dramatic_light_zigzag_highly_detailed.png 
+Graphic file (type png)
+<use ./figs/chenle02_Lightningclouds_dramatic_light_zigzag_highly_detailed.png>
+Package luatex.def Info: ./figs/chenle02_Lightningclouds_dramatic_light_zigzag_h
+ighly_detailed.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [16
+
+<./figs/chenle02_Lightningclouds_dramatic_light_zigzag_highly_detailed.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png, id=
+141, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png
+ Graphic file (type png)
+<use ./figs/chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png>
+
+Package luatex.def Info: ./figs/chenle02_Mushrooms_in_clusters_in_a_forest_with_
+sun_shades_ultr.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [17
+
+<./figs/chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Was_it_nuclear_explosionor_cosmic_forces_beyond_comprehension.p
+ng, id=147, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_Was_it_nuclear_explosionor_cosmic_forces_beyond_comprehens
+ion.png Graphic file (type png)
+<use ./figs/chenle02_Was_it_nuclear_explosionor_cosmic_forces_beyond_comprehensi
+on.png>
+Package luatex.def Info: ./figs/chenle02_Was_it_nuclear_explosionor_cosmic_force
+s_beyond_comprehension.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+)
+Overfull \vbox (4.00417pt too high) detected at line 393
+ []
+
+[18
+
+<./figs/chenle02_Was_it_nuclear_explosionor_cosmic_forces_beyond_comprehension.p
+ng>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+ (./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Standing_on_the_planet_Mars_looking_at_home_the_earth.png, id=1
+53, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_Standing_on_the_planet_Mars_looking_at_home_the_earth.png 
+Graphic file (type png)
+<use ./figs/chenle02_Standing_on_the_planet_Mars_looking_at_home_the_earth.png>
+Package luatex.def Info: ./figs/chenle02_Standing_on_the_planet_Mars_looking_at_
+home_the_earth.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [19
+
+<./figs/chenle02_Standing_on_the_planet_Mars_looking_at_home_the_earth.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_A_homesick_guy_looking_back_to_Earch_from_Mars_cinemar.png, id=
+159, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_A_homesick_guy_looking_back_to_Earch_from_Mars_cinemar.png
+ Graphic file (type png)
+<use ./figs/chenle02_A_homesick_guy_looking_back_to_Earch_from_Mars_cinemar.png>
+
+Package luatex.def Info: ./figs/chenle02_A_homesick_guy_looking_back_to_Earch_fr
+om_Mars_cinemar.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [20
+
+<./figs/chenle02_A_homesick_guy_looking_back_to_Earch_from_Mars_cinemar.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_A_person_in_front_of_the_whole_universe_gallaxies.png, id=165, 
+1541.76pt x 1541.76pt>
+File: ./figs/chenle02_A_person_in_front_of_the_whole_universe_gallaxies.png Grap
+hic file (type png)
+<use ./figs/chenle02_A_person_in_front_of_the_whole_universe_gallaxies.png>
+Package luatex.def Info: ./figs/chenle02_A_person_in_front_of_the_whole_universe
+_gallaxies.png  used on input line 3.
+(luatex.def)             Requested size: 231.25401pt x 231.25401pt.
+) [21
+
+<./figs/chenle02_A_person_in_front_of_the_whole_universe_gallaxies.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Cosmic_forces_beyond_comprehension.png, id=172, 1027.84pt x 102
+7.84pt>
+File: ./figs/chenle02_Cosmic_forces_beyond_comprehension.png Graphic file (type 
+png)
+<use ./figs/chenle02_Cosmic_forces_beyond_comprehension.png>
+Package luatex.def Info: ./figs/chenle02_Cosmic_forces_beyond_comprehension.png 
+ used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [22
+
+<./figs/chenle02_Cosmic_forces_beyond_comprehension.png>]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+<./figs/chenle02_Most_famous_mathematicians_and_physists_in_the_history.png, id=
+178, 1027.84pt x 1027.84pt>
+File: ./figs/chenle02_Most_famous_mathematicians_and_physists_in_the_history.png
+ Graphic file (type png)
+<use ./figs/chenle02_Most_famous_mathematicians_and_physists_in_the_history.png>
+
+Package luatex.def Info: ./figs/chenle02_Most_famous_mathematicians_and_physists
+_in_the_history.png  used on input line 3.
+(luatex.def)             Requested size: 226.12549pt x 226.12549pt.
+) [23
+
+<./figs/chenle02_Most_famous_mathematicians_and_physists_in_the_history.png>]
 \tf@nav=\write7
 
 \openout7 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.nav
@@ -1649,14 +1958,15 @@ alk-LeChen-Graduate-Seminar-Auburn-2023-02-15.toc)
 \tf@snm=\write9
 
 \openout9 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.snm
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 286.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 286.
- (./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 286.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 286.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 424.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 424.
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 424.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 424.
 Package rerunfilecheck Info: File `Talk-LeChen-Graduate-Seminar-Auburn-2023-02-1
 5.out' has not changed.
-(rerunfilecheck)             Checksum: DC0BE7967E05AA52DD332029EC812939;108.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1664,24 +1974,25 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 37192 strings out of 481365
+ 37696 strings out of 481365
  125171,1373583 words of node,token memory allocated
- 2291 words of node memory still in use:
-   43 hlist, 7 vlist, 12 rule, 3 disc, 1 local_par, 33 glue, 5 kern, 9 penalty, 
-17 glyph, 166 attribute, 71 glue_spec, 131 attribute_list, 5 write, 47 pdf_liter
-al, 1 pdf_start_link, 1 pdf_end_link, 1 pdf_action, 26 pdf_colorstack nodes
-   avail lists: 1:8,2:267,3:34,4:65,5:61,6:16,7:538,8:5,9:99,10:5,11:43
- 52609 multiletter control sequences out of 65536+600000
- 47 fonts using 6324715 bytes
+ 2861 words of node memory still in use:
+   52 hlist, 7 vlist, 12 rule, 6 disc, 2 local_par, 51 glue, 9 kern, 12 penalty,
+ 58 glyph, 174 attribute, 71 glue_spec, 135 attribute_list, 5 write, 39 pdf_lite
+ral, 30 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
+   avail lists: 1:8,2:255,3:28,4:61,5:67,6:18,7:555,8:3,9:94,10:11,11:44
+ 52753 multiletter control sequences out of 65536+600000
+ 49 fonts using 6485627 bytes
  58i,11n,87p,840b,693s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fon
 ts/opentype/public/lm/lmroman7-regular.otf></usr/share/texmf/fonts/opentype/publ
 ic/lm/lmroman9-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-
 regular.otf></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.pdf (2 pages, 25619 bytes).
+Output written on Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.pdf (23 pages, 
+31746936 bytes).
 
-PDF statistics: 90 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 131072)
- 204 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 214 PDF objects out of 1000 (max. 8388607)
+ 131 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 131072)
+ 196 words of extra memory for PDF output out of 10000 (max. 100000000)
 
