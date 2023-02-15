@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.8.12)  15 FEB 2023 13:37
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.8.12)  15 FEB 2023 13:48
  system commands enabled.
 **Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.tex
 (./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.tex
@@ -2144,11 +2144,23 @@ _in_the_history.png  used on input line 3.
 \openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
 
 (./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 2.
+) [82
+
+]
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb) [83
+
+]
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb) [84
+
+]
+\openout4 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
+
+(./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.vrb
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 7.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 7.
-) [82
+) [85
 
 ]
 \tf@nav=\write7
@@ -2160,12 +2172,12 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
 \tf@snm=\write9
 
 \openout9 = Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.snm
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 564.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 564.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 593.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 593.
 
 (./Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 564.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 564.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 593.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 593.
 Package rerunfilecheck Info: File `Talk-LeChen-Graduate-Seminar-Auburn-2023-02-1
 5.out' has not changed.
 (rerunfilecheck)             Checksum: 18961B62305481A098D09430C7D0583F;1528.
@@ -2176,16 +2188,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 38282 strings out of 481365
+ 38325 strings out of 481365
  125171,1373583 words of node,token memory allocated
  3588 words of node memory still in use:
    60 hlist, 8 vlist, 11 rule, 6 disc, 5 local_par, 8 math, 74 glue, 9 kern, 21 
 penalty, 54 glyph, 271 attribute, 71 glue_spec, 183 attribute_list, 5 write, 63 
 pdf_literal, 2 pdf_action, 44 pdf_colorstack nodes
-   avail lists: 1:9,2:1246,3:432,4:360,5:121,6:40,7:1920,8:81,9:184,10:16,11:165
+   avail lists: 1:9,2:1246,3:432,4:360,5:169,6:45,7:2565,8:81,9:184,10:16,11:165
 
- 53033 multiletter control sequences out of 65536+600000
- 109 fonts using 10756731 bytes
+ 53046 multiletter control sequences out of 65536+600000
+ 109 fonts using 10757059 bytes
  58i,11n,87p,840b,693s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fon
 ts/opentype/public/lm/lmroman7-regular.otf></usr/share/texmf/fonts/opentype/publ
@@ -2193,12 +2205,13 @@ ic/lm/lmroman9-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-
 regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/m
 sam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.pdf (82 pages, 
-32478949 bytes).
+ve/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.pdf (85 pages, 
+32489215 bytes).
 
-PDF statistics: 619 PDF objects out of 1000 (max. 8388607)
- 469 compressed objects within 5 object streams
- 174 named destinations out of 1000 (max. 131072)
+PDF statistics: 638 PDF objects out of 1000 (max. 8388607)
+ 484 compressed objects within 5 object streams
+ 180 named destinations out of 1000 (max. 131072)
  268 words of extra memory for PDF output out of 10000 (max. 100000000)
 
