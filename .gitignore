@@ -4,3 +4,17 @@ Demo_ExtractFigures2
 Demo_Groupphotos
 Demo_Groupphotos2
 Demo_Statistics2/Open_Slides_Statistics
+
+*.toc
+*.out
+*.aux
+*.bbl
+*.log
+*.blg
+*.vrb
+*.snm
+*.nav
+*.bcf
+*.xml
+*.synctex.gz
+.gitpub
