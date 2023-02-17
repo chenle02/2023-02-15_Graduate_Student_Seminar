@@ -1,6 +1,4 @@
-# Graduate student seminar
-1. Title: Sharpening your saw before cutting down the tree -- Personal development environment (PDE)
-2. Abstract:
+# Sharpening your saw before cutting down the tree -- Personal development environment (PDE)
 ```
 
 Pursuing a Ph.D. is a major commitment that requires a lot of hard work and
@@ -19,7 +17,7 @@ teaching more efficient and more enjoyable.
 # Acknowledgements
 1. Chatgpt
 2. Github Copilot
-3. Midjerney
+3. Midjourney
 
 # License
 * Creative Commons Attribution-ShareAlike 4.0 International License 
