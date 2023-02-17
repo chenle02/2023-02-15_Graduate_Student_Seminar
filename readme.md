@@ -1,3 +1,4 @@
+![Sharpening saw](./figs/chenle02_Illustrate_the_idea_If_you_sharpen_the_saw_you_would.png)
 # Sharpening your saw before cutting down the tree -- Personal development environment (PDE)
 ```
 
